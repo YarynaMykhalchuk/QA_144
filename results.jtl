@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1795617340010,76,Get,200,OK,10/1/1 1-1,text,true,,28551,138,1,1,http://jsonplaceholder.typicode.com/posts,72,0,39
+1795617340090,665,Post,201,Created,10/1/1 1-1,text,true,,1139,222,1,1,https://jsonplaceholder.typicode.com/posts,665,0,186
+1795617340756,395,Put,200,OK,10/1/1 1-1,text,true,,1012,223,1,1,https://jsonplaceholder.typicode.com/posts/1,395,0,0
+1795617342158,158,Patch,200,OK,10/1/1 1-1,text,true,,1289,225,1,1,https://jsonplaceholder.typicode.com/posts/1,158,0,0
+1795617342318,156,Delete,200,OK,10/1/1 1-1,text,true,,1001,226,1,1,https://jsonplaceholder.typicode.com/posts/1,156,0,0
+1795617342476,30,Get,200,OK,10/1/1 1-1,text,true,,28547,138,1,1,http://jsonplaceholder.typicode.com/posts,29,0,0
+1795617342507,161,Post,201,Created,10/1/1 1-1,text,true,,1142,222,1,1,https://jsonplaceholder.typicode.com/posts,161,0,0
+1795617342670,161,Put,200,OK,10/1/1 1-1,text,true,,1011,223,1,1,https://jsonplaceholder.typicode.com/posts/1,160,0,0
+1795617343838,178,Patch,200,OK,10/1/1 1-1,text,true,,1292,225,1,1,https://jsonplaceholder.typicode.com/posts/1,178,0,0
+1795617344017,168,Delete,200,OK,10/1/1 1-1,text,true,,1002,226,1,1,https://jsonplaceholder.typicode.com/posts/1,168,0,0
+1795617344187,31,Get,200,OK,10/1/1 1-1,text,true,,28553,138,1,1,http://jsonplaceholder.typicode.com/posts,31,0,0
+1795617344220,156,Post,201,Created,10/1/1 1-1,text,true,,1139,222,1,1,https://jsonplaceholder.typicode.com/posts,156,0,0
+1795617344378,153,Put,200,OK,10/1/1 1-1,text,true,,1011,223,1,1,https://jsonplaceholder.typicode.com/posts/1,152,0,0
+1795617345537,152,Patch,200,OK,10/1/1 1-1,text,true,,1299,225,1,1,https://jsonplaceholder.typicode.com/posts/1,152,0,0
+1795617345691,150,Delete,200,OK,10/1/1 1-1,text,true,,1005,226,1,1,https://jsonplaceholder.typicode.com/posts/1,150,0,0
